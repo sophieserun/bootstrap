@@ -1,0 +1,11 @@
+body {  font-family: 'Montserrat', sans-serif;}
+a{font-family: 'Crimson Text', serif;
+
+}
+a{
+	color: pink;
+}
+.navbar {
+    background-color:blue;
+} 
+.circle{border border-radius:50px }
